@@ -1,6 +1,9 @@
 ## SAT 
-# Score: 1600 
-# Preparation:  
+# Bio: 
+Hi there! I'm Tsach ("Zack"), and I'm a first year student at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :) ). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
+
+# SAT Score: 1600 
+# SAT Preparation:  
 - 6 weeks self-study
 - Used the SAT Prep Black Book, Meltzer’s Guide to Grammar / Reading and Writing
 # Teaching Experience: 
@@ -11,4 +14,4 @@
 - Ringle Tutor (Jan 2020 - May 2020): 
      - Assisted non-native English speaking professionals in technology, medicine, and adjacent fields in improving their english for common usage and prepared presentations
 - Peer Tutor for Introduction to Computing for Engineers and Scientists
-     -  Provided problem-set assistance and general clarification of difficult concepts 
+     -  Provided problem-set assistance and general clarification of difficult concepts
