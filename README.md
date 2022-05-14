@@ -1,5 +1,5 @@
 ## Bio: 
-Hi there! I'm Tsach ("Zack"), and I'm a rising sophomore at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :smiley:). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
+Hi there! I'm Tsach ("Zack"), and I'm a rising sophomore at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :smile:). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
 
 ### SAT Score: 1600 
 
