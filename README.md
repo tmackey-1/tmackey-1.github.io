@@ -1,4 +1,4 @@
-![Image description](image.png) 
+![Image description](yale.png) 
 # Bio: 
 Hi there! I'm Tsach ("Zack"), and I'm a first year student at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :) ). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
 
