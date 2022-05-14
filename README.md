@@ -1,5 +1,5 @@
 ## Bio: 
-Hi there! I'm Tsach ("Zack"), and I'm a first year student at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :) ). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
+Hi there! I'm Tsach ("Zack"), and I'm a rising sophomore at Yale University majoring in Chemistry. I offer intensive SAT tutoring with flexible hours (to fit everyone's busy schedules :) ). Details on my SAT and teaching experience is below. If interested, please reach out at tcmackey.md@gmail.com. Tutoring  in other subjects is also availible upon request! 
 
 ### SAT Score: 1600 
 
@@ -13,6 +13,6 @@ Hi there! I'm Tsach ("Zack"), and I'm a first year student at Yale University ma
      - Weekly targeted content review
      - Practice result analysis and personalized study strategy development 
 - Ringle Tutor (Jan 2020 - May 2020): 
-     - Assisted non-native English speaking professionals in technology, medicine, and adjacent fields in improving their english for common usage and prepared presentations
+     - Assisted non-native English speaking professionals in technology, medicine, and adjacent fields in improving their English for common usage and prepared presentations. Clients helped include doctors, pharmaceutical executives, and engineers.
 - Peer Tutor for Introduction to Computing for Engineers and Scientists
      -  Provided problem-set assistance and general clarification of difficult concepts
