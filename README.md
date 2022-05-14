@@ -13,6 +13,6 @@ Hi there! I'm Tsach ("Zack"), and I'm a rising sophomore at Yale University majo
      - Weekly targeted content review
      - Practice result analysis and personalized study strategy development 
 - Ringle Tutor (Jan 2020 - May 2020): 
-     - Assisted non-native English speaking professionals in technology, medicine, and adjacent fields in improving their English for common usage and prepared presentations. Clients helped include doctors, pharmaceutical executives, and engineers.
+     - Assisted non-native English speaking professionals in technology, medicine, and adjacent fields in improving their English for common usage and prepared presentations.
 - Peer Tutor for Introduction to Computing for Engineers and Scientists
      -  Provided problem-set assistance and general clarification of difficult concepts
