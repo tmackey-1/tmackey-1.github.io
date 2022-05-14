@@ -1,5 +1,5 @@
 title: About
-logo: ![Image description](yale.png)
+logo: yale.png
 theme: jekyll-theme-minimal
 gems:
   - jemoji
